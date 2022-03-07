@@ -1,16 +1,22 @@
-# amit_and_orange_shop_app
+# amit_and_orange_e-commerce_app
 
-A new Flutter application.
+#### Overview
+- this project is an application on Amit/orange's 2 weeks flutter course.
+- it's an E-commerce Application using Flutter for browsing and buying items.
+###### Features
+- login signup
+- browse products
+- see product details
+- count items
+#### Package using
+- Dart
+- State management(Bloc)
+- Dio
+- Conditional builder
+#### Demo
+https://user-images.githubusercontent.com/93555101/157132960-3718702b-3eb4-45de-9429-3c05f6695791.mp4
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
